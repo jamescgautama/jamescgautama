@@ -6,4 +6,4 @@
   - Data: SQL, Clickhouse, Grafana, MongoDB
   - Geospatial: rastero, GeoPandas, QGIS
   - Infrastructure: Docker, Linux, Git, GCP/GEE, AWS
-- Open to connecting! Talk at: [james.gautama@student.sgu.ac.id](malito:james.gautama@student.sgu.ac.id)
+- Open to connecting! Talk at: [james.gautama@student.sgu.ac.id](mailto:james.gautama@student.sgu.ac.id)
