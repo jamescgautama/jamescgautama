@@ -1,5 +1,4 @@
-##👋🌏
-
+## 👋🌏
 - I'm an undergraduate research-engineer focused on machine learning and data-driven modelling for environmental systems
 - Currently exploring multi-modal fusion for Earth observation and physics/ecology-informed ML
 - Tools and methods I've worked with:
