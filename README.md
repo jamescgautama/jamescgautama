@@ -1,9 +1,9 @@
 ## 👋🌏
-- I'm an undergraduate student focused on geospatial machine learning and data-driven modelling for environmental systems
-- Currently exploring multimodal fusion for Earth observation and physics-informed environmental modelling
-- Tools I've worked with:
-  - Machine learning: PyTorch, scikit-learn, Numpy, pandas
-  - Data: SQL, Clickhouse, Grafana, MongoDB, Fluentd
-  - Geospatial: rasterio, GeoPandas, QGIS
-  - Infrastructure: Docker, Linux, Git, GCP/GEE, AWS
-- Open to connecting! Talk at: [james.gautama@student.sgu.ac.id](mailto:james.gautama@student.sgu.ac.id)
+- i'm an undergraduate student focused on geospatial machine learning and data-driven modelling for environmental systems
+- currently exploring multimodal fusion for earth observation and physics-informed environmental modelling
+- tools i've worked with:
+  - ml: pytorch, scikit-learn, numpy, pandas
+  - data: sql, clickhouse, grafana, mongodb, fluentd
+  - geospatial: rasterio, geoandas, qgis
+  - infrastructure: docker, linux, git, gcp/gee, aws, microsoft planetary computer
+- open to connecting! talk at: [james.gautama@student.sgu.ac.id](mailto:james.gautama@student.sgu.ac.id)
